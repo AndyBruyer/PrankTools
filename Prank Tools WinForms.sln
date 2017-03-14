@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prank Tools WinForms Example", "Prank Tools WinForms\Prank Tools WinForms Example.csproj", "{C53B0FC4-737D-4CEA-875F-E6BB2BA40192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prank Tools", "Prank Tools\Prank Tools.csproj", "{7148887B-851C-4EB3-A45A-44244CCBA78E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C53B0FC4-737D-4CEA-875F-E6BB2BA40192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53B0FC4-737D-4CEA-875F-E6BB2BA40192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53B0FC4-737D-4CEA-875F-E6BB2BA40192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53B0FC4-737D-4CEA-875F-E6BB2BA40192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7148887B-851C-4EB3-A45A-44244CCBA78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7148887B-851C-4EB3-A45A-44244CCBA78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7148887B-851C-4EB3-A45A-44244CCBA78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7148887B-851C-4EB3-A45A-44244CCBA78E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
